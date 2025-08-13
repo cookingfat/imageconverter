@@ -1,4 +1,4 @@
-🖼️ Image Optimizer & WebP Converter
+🖼️ Image Optimiser & WebP Converter
 
 ![alt text](https://img.shields.io/badge/License-MIT-yellow.svg)
 
