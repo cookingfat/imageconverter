@@ -13,7 +13,7 @@
 
 A simple, fast, and intuitive web application for resizing and converting images (JPG, PNG, GIF) to the modern and efficient WebP format. Optimize your website's images, improve loading times, and enhance user experience with just a few clicks.
 
-➡️ Live Demo: your-live-demo-link.com
+➡️ Live Demo: https://webptool.netlify.app/
 ✨ Features
 
     🔄 Effortless Conversion: Convert your JPG, PNG, and animated GIF files to WebP.
