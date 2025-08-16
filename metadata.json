@@ -1,5 +1,5 @@
 {
   "name": "WebP Image Converter",
-  "description": "A user-friendly tool to convert images to the WebP format. Adjust quality settings and see a live preview with file size comparisons.",
+  "description": "A user-friendly tool to convert images to the WebP format or resize existing WebP images. Adjust quality settings and see a live preview with file size comparisons.",
   "requestFramePermissions": []
 }

@@ -51,14 +51,14 @@ const ImageUploader: React.FC<{ onImageUpload: (file: File) => void }> = ({ onIm
       <input
         ref={inputRef}
         type="file"
-        accept="image/png, image/jpeg, image/gif"
+        accept="image/png, image/jpeg, image/gif, image/webp"
         className="hidden"
         onChange={handleChange}
       />
       <UploadIcon />
       <h2 className="mt-4 text-xl font-semibold text-white">Drag & drop your image here</h2>
       <p className="mt-1 text-text-secondary">or click to browse</p>
-      <p className="mt-4 text-xs text-text-secondary">Supports PNG, JPG, and GIF</p>
+      <p className="mt-4 text-xs text-text-secondary">Supports PNG, JPG, GIF, and WebP</p>
     </div>
   );
 };
